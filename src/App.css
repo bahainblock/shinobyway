@@ -16,7 +16,7 @@
 	 
 .header {
 	grid-area: h;
-	background-color: aquamarine;
+	background-color: skyblue;
 	
 }
 .header img {
@@ -25,10 +25,10 @@
 
 .nav {
 	grid-area: n;
-	background-color: aqua;
+	background-color: green;
 }
 
 .content {				
 	grid-area: c;
-	background-color: blue;
+	background-color: red;
 }

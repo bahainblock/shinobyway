@@ -1,7 +1,4 @@
-*{
-	margin:0px;
-	
-}
+
 .app-wrapper {
 	display: grid;
 	width:1200px;
@@ -11,24 +8,5 @@
 	grid-template-rows: 60px 1fr;
 	grid-template-columns: 2fr 10fr;
     /* grid-gap: 10px;  */
-	
-}
-	 
-.header {
-	grid-area: h;
-	background-color: skyblue;
-	
-}
-.header img {
-	width: 60px;
-}
 
-.nav {
-	grid-area: n;
-	background-color: green;
-}
-
-.content {				
-	grid-area: c;
-	background-color: red;
 }
